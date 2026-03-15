@@ -1,4 +1,4 @@
-![BR3XALITY's GitHub stats](https://github-readme-stats.vercel.app/api?username=BR3XALITYalt&theme=dark&show_icons=true)
+![BR3XALITY's GitHub stats](https://github-readme-stats.vercel.app/api?username=BR3XALITYalt&theme=dark&show_icons=true)  
 **BR3XALITY** (Formerly TotallyNotFreeModel Productions, and Freebee C0de Productions) is a 3-man team, consisting of [Luis Vega](https://br3xawiki.wikioasis.org/wiki/Luis_Vega), [Dylan Hernandez](https://br3xawiki.wikioasis.org/wiki/Dylan_Hernandez), and [Logan Diaz](https://br3xawiki.wikioasis.org/wiki/Logan_Diaz).
 
 ## History
